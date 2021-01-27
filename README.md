@@ -1,7 +1,4 @@
 # Backsteroid
 
-A game for [js13kGames Competition](http://js13kgames.com/).
+A game that is overly hard to control...
 
-## Install
-
-Based on [js13k server](https://github.com/js13kgames/js13kserver). Follow instructions for it.
